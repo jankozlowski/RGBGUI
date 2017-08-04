@@ -1,4 +1,3 @@
 # RGBGUI
-Software for creating Arduino code to pixel poi<br /><br />
-<img src="http://binaryalchemist.pl/wp-content/uploads/2017/08/led-staff-1.png" alt="led staff"/><br /><br /><br />
-<img src="http://binaryalchemist.pl/wp-content/uploads/2017/08/led-staff2.png" alt="led staff"/>
+Software for reading image and transforming them to Arduino code for pixel poi<br /><br />
+<img src="http://binaryalchemist.pl/wp-content/uploads/2017/08/rgbgui.png" alt="led staff"/>
